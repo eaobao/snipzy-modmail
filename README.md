@@ -8,32 +8,6 @@ Moderators and admins can then reply to these threads, and these responses are r
 
 Inspired by Reddit's modmail system.
 
-## NOTE! If you're upgrading to v2.23.0, note that Node.js 10 is now required at minimum.
-
-## Table of contents
-- [Setup](#setup)
-- [Changelog](#changelog)
-- [Commands](#commands)
-  - [Anywhere on the inbox server](#anywhere-on-the-inbox-server)
-  - [Inside a modmail thread](#inside-a-modmail-thread)
-- [Configuration options](#configuration-options)
-- [Plugins](#plugins)
-  - [Specifying plugins to load](#specifying-plugins-to-load)
-  - [Creating a plugin](#creating-a-plugin)
-
-## Setup
-1. Install Node.js 10 (LTS) or higher
-2. Download the latest release from [the releases page](https://github.com/Dragory/modmailbot/releases)
-3. Create a Discord server to be used as the modmail inbox
-4. Make a copy of the file `config.example.json` in the same folder and name the copy `config.json`. Open the file and fill in the values.
-   - You can also find more configurable options at the end of this page!
-5. Install dependencies: `npm ci`
-6. Add bot to servers, and make sure to give it proper permissions on the mail server.
-7. Run the bot: `npm start`
-
-## Changelog
-See [CHANGELOG.md](CHANGELOG.md)
-
 ## Commands
 
 ### Anywhere on the inbox server
