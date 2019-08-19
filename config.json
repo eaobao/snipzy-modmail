@@ -1,0 +1,12 @@
+{
+  "token": "NjA4MTE3MTEyMDkwNzg3ODQx.XUjf9A.H_SiwDFK9UTbmcwIumX60sPv4Ls",
+  "mailGuildId": "610255873952055310",
+  "mainGuildId": "301667901256105986",
+  "logChannelId": "610278659399352320",
+
+  "status": "Message me for help!",
+  "responseMessage": "Your message has been submitted. A staff member will reply to your message as soon as they can.",
+  "allowMove": true,
+  "alwaysReplyAnon": true,
+  "useNicknames": false
+}
