@@ -1,4 +1,4 @@
-# Modmail for Discord
+# Snipzy's Personal Modmail
 
 This bot is a customised version of [Dragory's bot](https://github.com/dragory/modmailbot)
 
